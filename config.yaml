@@ -3,4 +3,8 @@ languageCode: en-us
 title: "Maher | technology for humans™"
 theme: "maher.pk"
 metaDataFormat: yaml
+# https://discourse.gohugo.io/t/turning-off-taxonomy-pages/2622/14
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
 googleAnalytics: UA-64296375-1
