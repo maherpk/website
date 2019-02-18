@@ -1,0 +1,15 @@
+name: maher.pk
+license: MIT
+licenselink: "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description: Maher.PK website theme for hugo
+homepage: "http://maher.pk/"
+tags: []
+features: []
+min_version: "0.41"
+author:
+  name: Maher Pakistan
+  homepage: "https://maher.pk"
+original:
+  name: maher.pk
+  homepage: "https://maher.pk"
+  repo: ""

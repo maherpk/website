@@ -1,0 +1,19 @@
+{
+  "name": "maher.pk",
+  "version": "1.0.0",
+  "description": "maher.pk theme",
+  "main": "index.js",
+  "author": "Yousuf Jawwad",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-size": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "^4.11.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}

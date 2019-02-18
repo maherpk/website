@@ -1,0 +1,6 @@
+baseURL: "http://maher.pk/"
+languageCode: en-us
+title: "Maher | technology for humans™"
+theme: "maher.pk"
+metaDataFormat: yaml
+googleAnalytics: UA-64296375-1
