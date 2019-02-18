@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://quizzical-noyce-5047a7.netlify.com/* https://maher.pk/:splat 301!
