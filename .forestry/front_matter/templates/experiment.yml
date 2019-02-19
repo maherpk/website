@@ -1,0 +1,14 @@
+---
+label: experiment
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: The title of the post
+- type: datetime
+  name: updated_on
+  label: Updated On
+  config:
+    required: true
