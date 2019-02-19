@@ -12,3 +12,5 @@ fields:
   label: Updated On
   config:
     required: true
+pages:
+- content/the-all-singing.md
